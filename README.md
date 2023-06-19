@@ -31,10 +31,28 @@ If you want to add your resource to this page, please fork this repo and create 
     </tr>
     <tr>
         <td>
-        Palamar
+            Palamar
         </td>
          <td>
-https://www.theamsolutions.info/
+            https://www.theamsolutions.info/
+        </td>
+    </tr>
+
+    <tr>
+        <td>
+            Palamar
+        </td>
+         <td>
+            https://www.theamsolutions.info/
+        </td>
+    </tr>
+
+    <tr>
+        <td>
+            Palamar
+        </td>
+         <td>
+            https://www.theamsolutions.info/
         </td>
     </tr>
 </table>
