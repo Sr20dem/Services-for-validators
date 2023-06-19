@@ -24,17 +24,3 @@ If you want to add your resource to this page, please fork this repo and create 
 | AviaOne    | Node resources (instructions, state sync, peers, seeds, genesis, etc)                        | https://aviaone.com/blockchains-service/                     |
 
 
-<table width=99%>
-    <tr>
-        <th width=40%>Provider</th>
-        <th width=60%>Link</th>
-    </tr>
-    <tr>
-        <td>
-        Palamar
-        </td>
-         <td>
-https://www.theamsolutions.info/
-        </td>
-    </tr>
-</table>
