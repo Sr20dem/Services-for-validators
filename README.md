@@ -125,5 +125,13 @@ If you want to add your resource to this page, please fork this repo and create 
             https://aviaone.com/blockchains-service/
         </td>
     </tr>
+    <tr>
+        <td>
+            Anode
+        </td>
+         <td>
+            https://anode.team/
+        </td>
+    </tr>
 </table>
 
