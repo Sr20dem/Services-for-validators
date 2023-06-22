@@ -1,6 +1,6 @@
 # Resources for validators
 
-This page contains links to useful resources for the validators and noderunners, such as state-sync, snapshots, instructions, etc.
+This page contains links to useful resources for the validators and noderunners, such as <b>state-sync, snapshots, instructions</b>, etc.
 
 If you want to add your resource to this page, please fork this repo and create a PR with the changes.
 
