@@ -133,5 +133,14 @@ If you want to add your resource to this page, please fork this repo and create 
             https://anode.team/
         </td>
     </tr>
+    <tr>
+        <td>
+            Genznodes
+        </td>
+         <td>
+            https://genznodes.dev/
+        </td>
+    </tr>
+</table>
 </table>
 
