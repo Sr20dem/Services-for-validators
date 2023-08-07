@@ -149,6 +149,22 @@ If you want to add your resource to this page, please fork this repo and create 
             https://services.kjnodes.com
         </td>
     </tr>
+	<tr>
+        <td>
+            Liveraven
+        </td>
+         <td>
+            https://services.liveraven.net/
+        </td>
+    </tr>
+		<tr>
+        <td>
+            BccNodes
+        </td>
+         <td>
+            https://bccnodes.com/
+        </td>
+    </tr>
 </table>
 </table>
 
